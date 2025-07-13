@@ -8,6 +8,13 @@
       "when": 1752356597179,
       "tag": "0000_cute_firestar",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752372177651,
+      "tag": "0001_closed_bishop",
+      "breakpoints": true
     }
   ]
 }
