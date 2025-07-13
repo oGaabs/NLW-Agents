@@ -63,4 +63,4 @@ src/
 ├── pages/           # Páginas da aplicação
 ├── lib/             # Utilitários e configurações
 └── app.tsx          # Componente raiz
-```
+``` 
