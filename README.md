@@ -2,6 +2,25 @@
 
 > An intelligent Q&A platform powered by AI that transforms audio content into interactive knowledge rooms
 
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h4>🏠 Room Dashboard</h4>
+        <img src=".github/images/rooms-interface.png" alt="Room Dashboard - Create and manage knowledge rooms" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+        <p><em>Create and manage your knowledge rooms with an intuitive interface</em></p>
+      </td>
+      <td width="50%" align="center">
+        <h4>💬 Q&A Interface</h4>
+        <img src=".github/images/qa-interface.png" alt="Q&A Interface - Ask questions and get AI-powered answers" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+        <p><em>Ask questions and receive intelligent answers based on your audio content</em></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)](https://www.fastify.io/)
