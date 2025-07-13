@@ -15,6 +15,13 @@
       "when": 1752372177651,
       "tag": "0001_closed_bishop",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752377369497,
+      "tag": "0002_curvy_mad_thinker",
+      "breakpoints": true
     }
   ]
 }
